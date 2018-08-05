@@ -1,3 +1,2 @@
 # hello-world
-A repository
-
+Some words to make sure this thing works.
